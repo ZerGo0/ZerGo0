@@ -18,7 +18,7 @@ jobs:
 
           # Can't be enabled because of commit rate-limit... (https://github.com/anmol098/waka-readme-stats/blob/dbb6bd8a1dd037cffb5c80eedf46e70896eadfc8/sources/main.py#L161C1-L161C149)
           #SHOW_LINES_OF_CODE: "False"
-          #SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "False"
           #SHOW_COMMIT: "False"
           #SHOW_DAYS_OF_WEEK: "False"
           IGNORED_REPOS: "SyncedFiles"
