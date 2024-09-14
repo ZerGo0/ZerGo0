@@ -1,6 +1,10 @@
 ## Welcome
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -29,5 +33,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2024 09:02:55 UTC
+ Last Updated on 14/09/2024 09:12:22 UTC
 <!--END_SECTION:waka-->
