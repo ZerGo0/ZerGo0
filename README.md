@@ -1,7 +1,7 @@
 ## Welcome
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%203%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -64,5 +64,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2024 18:10:52 UTC
+ Last Updated on 19/09/2024 00:30:40 UTC
 <!--END_SECTION:waka-->
