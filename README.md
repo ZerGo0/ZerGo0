@@ -1,71 +1,88 @@
 ## Welcome
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2054%20mins-blue)
-
-**I'm a Night 🦉** 
+Code Time:
 
 ```text
-🌞 Morning                484 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-🌆 Daytime                662 commits         ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-🌃 Evening                1143 commits        ████████████░░░░░░░░░░░░░   47.17 % 
-🌙 Night                  134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Last 7 days:             19 hrs 23 mins
+Last 30 days:            48 hrs 1 min
+Yearly:                  47 hrs 59 mins
+All time:                48 hrs
 ```
-📅 **I'm Most Productive on Saturday** 
-
+Last 7 days
 ```text
-Monday                   242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Tuesday                  216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Wednesday                236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Thursday                 241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Friday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Saturday                 671 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-Sunday                   428 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+
+Projects:
+fanslybot_site:          14 hrs 28 mins
+Work/Private Projects:   4 hrs 54 mins
+
+
+Languages:
+Svelte:                  6 hrs 33 mins
+C#:                      4 hrs 13 mins
+Go:                      2 hrs 40 mins
+Other:                   1 hr 36 mins
+TypeScript:              1 hr
+
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
+Last 30 days
 ```text
-🕑︎ Time Zone: Europe/Berlin
 
-💬 Programming Languages: 
-Svelte                   6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
-C#                       4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Go                       2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-TypeScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Projects:
+fanslybot_site:          35 hrs 14 mins
+Work/Private Projects:   8 hrs 2 mins
+fontsourcedownloader:    3 hrs 18 mins
+ZerGo0:                  31 mins
+gumroadBot:              30 mins
 
-🔥 Editors: 
-VS Code                  14 hrs 29 mins      ███████████████████░░░░░░   74.75 % 
-Jetbrainsrider           4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
 
-🐱‍💻 Projects: 
-fanslybot_site           14 hrs 28 mins      ███████████████████░░░░░░   74.65 % 
-Shopsystem               3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-StripePayments           1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Web.Shop                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-User                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Languages:
+Svelte:                  17 hrs 15 mins
+Go:                      11 hrs 48 mins
+C#:                      4 hrs 13 mins
+Other:                   3 hrs 50 mins
+TypeScript:              2 hrs 51 mins
 
-💻 Operating System: 
-Linux                    14 hrs 29 mins      ███████████████████░░░░░░   74.75 % 
-Windows                  4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
 ```
-
-**I Mostly Code in C#** 
-
+Yearly
 ```text
-Go                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Svelte                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+
+Projects:
+fanslybot_site:          35 hrs 12 mins
+Work/Private Projects:   8 hrs 2 mins
+fontsourcedownloader:    3 hrs 18 mins
+ZerGo0:                  31 mins
+gumroadBot:              30 mins
+
+
+Languages:
+Svelte:                  17 hrs 15 mins
+Go:                      11 hrs 48 mins
+C#:                      4 hrs 13 mins
+Other:                   3 hrs 50 mins
+TypeScript:              2 hrs 51 mins
+
+```
+All time
+```text
+
+Projects:
+fanslybot_site:          35 hrs 12 mins
+Work/Private Projects:   8 hrs 2 mins
+fontsourcedownloader:    3 hrs 18 mins
+ZerGo0:                  31 mins
+gumroadBot:              30 mins
+
+
+Languages:
+Svelte:                  17 hrs 15 mins
+Go:                      11 hrs 48 mins
+C#:                      4 hrs 13 mins
+Other:                   3 hrs 50 mins
+TypeScript:              2 hrs 51 mins
+
 ```
 
-
-
-
- Last Updated on 04/10/2024 06:11:50 UTC
 <!--END_SECTION:waka-->
 
 TEST123
