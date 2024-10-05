@@ -4,10 +4,10 @@
 Code Time:
 
 ```text
-Last 7 days:             19 hrs 23 mins
-Last 30 days:            48 hrs 1 min
-Yearly:                  47 hrs 59 mins
-All time:                48 hrs
+Last 7 days:             25 hrs 45 mins
+Last 30 days:            54 hrs 24 mins
+Yearly:                  54 hrs 22 mins
+All time:                54 hrs 22 mins
 ```
 Projects and Languages:
 ```text
@@ -15,17 +15,17 @@ Last 7 days                             | Last 30 days                          
                                         |                                         |                                         |                                        
 Projects:                               | Projects:                               | Projects:                               | Projects:                              
 fanslybot_site           14 hrs 28 mins | fanslybot_site           35 hrs 14 mins | fanslybot_site           35 hrs 12 mins | fanslybot_site           35 hrs 12 mins
-Work/Private Projects    4 hrs 54 mins  | Work/Private Projects    8 hrs 2 mins   | Work/Private Projects    8 hrs 2 mins   | Work/Private Projects    8 hrs 2 mins  
+wakatime-profile-stats   6 hrs 10 mins  | Work/Private Projects    8 hrs 14 mins  | Work/Private Projects    8 hrs 14 mins  | Work/Private Projects    8 hrs 14 mins 
+Work/Private Projects    5 hrs 6 mins   | wakatime-profile-stats   6 hrs 10 mins  | wakatime-profile-stats   6 hrs 10 mins  | wakatime-profile-stats   6 hrs 10 mins 
                                         | fontsourcedownloader     3 hrs 18 mins  | fontsourcedownloader     3 hrs 18 mins  | fontsourcedownloader     3 hrs 18 mins 
                                         | ZerGo0                   31 mins        | ZerGo0                   31 mins        | ZerGo0                   31 mins       
-                                        | gumroadBot               30 mins        | gumroadBot               30 mins        | gumroadBot               30 mins       
                                         |                                         |                                         |                                        
 Languages:                              | Languages:                              | Languages:                              | Languages:                             
-Svelte                   6 hrs 33 mins  | Svelte                   17 hrs 15 mins | Svelte                   17 hrs 15 mins | Svelte                   17 hrs 15 mins
-C#                       4 hrs 13 mins  | Go                       11 hrs 48 mins | Go                       11 hrs 48 mins | Go                       11 hrs 48 mins
-Go                       2 hrs 40 mins  | C#                       4 hrs 13 mins  | C#                       4 hrs 13 mins  | C#                       4 hrs 13 mins 
-Other                    1 hr 36 mins   | Other                    3 hrs 50 mins  | Other                    3 hrs 50 mins  | Other                    3 hrs 50 mins 
-TypeScript               1 hr           | TypeScript               2 hrs 51 mins  | TypeScript               2 hrs 51 mins  | TypeScript               2 hrs 51 mins 
+Go                       7 hrs 21 mins  | Svelte                   17 hrs 15 mins | Svelte                   17 hrs 15 mins | Svelte                   17 hrs 15 mins
+Svelte                   6 hrs 33 mins  | Go                       16 hrs 29 mins | Go                       16 hrs 29 mins | Go                       16 hrs 29 mins
+C#                       4 hrs 13 mins  | C#                       4 hrs 13 mins  | C#                       4 hrs 13 mins  | C#                       4 hrs 13 mins 
+Other                    1 hr 40 mins   | Other                    3 hrs 55 mins  | Other                    3 hrs 55 mins  | Other                    3 hrs 55 mins 
+YAML                     1 hr 10 mins   | TypeScript               2 hrs 51 mins  | TypeScript               2 hrs 51 mins  | TypeScript               2 hrs 51 mins 
 ```
-Updated at 2024-10-05 00:29:19 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
+Updated at 2024-10-05 06:08:48 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
