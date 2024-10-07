@@ -12,13 +12,13 @@
 - 2 weeks wait time for jetbrains plugin fix
 
 # Refact.AI
-# StarCoder2-3B auto complete model
-# suggestions are pretty bad and often include existing lines
-# context includes previously opened files and LSP(?)
-# technical details are very detailed
+- StarCoder2-3B auto complete model
+- suggestions are pretty bad and often include existing lines
+- context includes previously opened files and LSP(?)
+- technical details are very detailed
 
 # Continue.Dev
-# Codestral auto complete model used
-# suggestions are okay, but worse than copilot
-# context includes previously opened files
-# technical details are pretty detailed
+- Codestral auto complete model used
+- suggestions are okay, but worse than copilot
+- context includes previously opened files
+- technical details are pretty detailed
