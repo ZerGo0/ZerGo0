@@ -6,7 +6,7 @@ Code Time:
 ```text
 Last 7 days:             24 hrs 27 mins
 Last 30 days:            65 hrs 30 mins
-Last 365 days:                  65 hrs 28 mins
+Last 365 days:           65 hrs 28 mins
 All time:                65 hrs 28 mins
 ```
 Projects and Languages:
@@ -27,5 +27,5 @@ YAML                     2 hrs          | C#                       11 hrs 10 min
 Other                    1 hr 21 mins   | Other                    3 hrs 55 mins  | Other                    3 hrs 55 mins  | Other                    3 hrs 55 mins 
 Svelte                   1 hr 4 mins    | TypeScript               3 hrs 35 mins  | TypeScript               3 hrs 35 mins  | TypeScript               3 hrs 35 mins 
 ```
-Updated at 2024-10-08 15:13:38 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
+Updated at 2024-10-08 15:15:36 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
