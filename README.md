@@ -4,28 +4,28 @@
 Code Time:
 
 ```text
-Last 7 days:             44 hrs 10 mins
-Last 30 days:            172 hrs 40 mins
-Last 365 days:           213 hrs 27 mins
-All time:                213 hrs 33 mins
+Last 7 days:             48 hrs 29 mins
+Last 30 days:            180 hrs 18 mins
+Last 365 days:           227 hrs 9 mins
+All time:                227 hrs 9 mins
 ```
 Projects and Languages:
 ```text
 Last 7 days                             | Last 30 days                             | Last 365 days                           | All time                                
                                         |                                          |                                         |                                         
 Projects:                               | Projects:                                | Projects:                               | Projects:                               
-Work/Private Projects    25 hrs 18 mins | Work/Private Projects    108 hrs 11 mins | Work/Private Projects    116 hrs 5 mins | Work/Private Projects    116 hrs 11 mins
-Ftv-extension            9 hrs 48 mins  | fanslybot_site           29 hrs 10 mins  | fanslybot_site           57 hrs 23 mins | fanslybot_site           57 hrs 24 mins 
-fanslybot_site           8 hrs 24 mins  | Ftv-extension            26 hrs 11 mins  | Ftv-extension            26 hrs 7 mins  | Ftv-extension            26 hrs 7 mins  
-umami                    38 mins        | wakatime-profile-stats   6 hrs 52 mins   | wakatime-profile-stats   6 hrs 50 mins  | wakatime-profile-stats   6 hrs 50 mins  
-SyncedFiles              0 secs         | SyncedFiles              1 hr 35 mins    | fontsourcedownloader     3 hrs 18 mins  | fontsourcedownloader     3 hrs 18 mins  
+Work/Private Projects    19 hrs 53 mins | Work/Private Projects    108 hrs 11 mins | Work/Private Projects    116 hrs 5 mins | Work/Private Projects    116 hrs 11 mins
+Ftv-extension            14 hrs 32 mins | fanslybot_site           32 hrs 3 mins   | fanslybot_site           66 hrs 21 mins | fanslybot_site           60 hrs 17 mins 
+fanslybot_site           14 hrs 3 mins  | Ftv-extension            30 hrs 55 mins  | Ftv-extension            30 hrs 51 mins | Ftv-extension            30 hrs 51 mins 
+SyncedFiles              0 secs         | wakatime-profile-stats   6 hrs 52 mins   | wakatime-profile-stats   6 hrs 50 mins  | wakatime-profile-stats   6 hrs 50 mins  
+                                        | SyncedFiles              1 hr 35 mins    | fontsourcedownloader     3 hrs 18 mins  | fontsourcedownloader     3 hrs 18 mins  
                                         |                                          |                                         |                                         
 Languages:                              | Languages:                               | Languages:                              | Languages:                              
-C#                       11 hrs 18 mins | C#                       67 hrs 19 mins  | C#                       71 hrs 28 mins | C#                       71 hrs 32 mins 
-TypeScript               6 hrs 1 min    | Svelte                   23 hrs 33 mins  | Svelte                   40 hrs 20 mins | Svelte                   40 hrs 21 mins 
-PowerShell               5 hrs 8 mins   | TypeScript               15 hrs 5 mins   | Go                       22 hrs 7 mins  | Go                       22 hrs 8 mins  
-Svelte                   4 hrs 54 mins  | Go                       12 hrs 59 mins  | TypeScript               17 hrs 41 mins | TypeScript               17 hrs 41 mins 
-Go                       3 hrs 3 mins   | CSHTML                   8 hrs 52 mins   | CSHTML                   9 hrs 2 mins   | CSHTML                   9 hrs 3 mins   
+Svelte                   12 hrs 3 mins  | C#                       67 hrs 19 mins  | C#                       71 hrs 28 mins | C#                       71 hrs 32 mins 
+TypeScript               10 hrs 40 mins | Svelte                   27 hrs 57 mins  | Svelte                   48 hrs 12 mins | Svelte                   44 hrs 44 mins 
+C#                       8 hrs 3 mins   | TypeScript               17 hrs 58 mins  | TypeScript               22 hrs 50 mins | Go                       22 hrs 20 mins 
+PowerShell               4 hrs 30 mins  | Go                       13 hrs 11 mins  | Go                       22 hrs 26 mins | TypeScript               20 hrs 34 mins 
+XML                      2 hrs 17 mins  | CSHTML                   8 hrs 52 mins   | CSHTML                   9 hrs 2 mins   | CSHTML                   9 hrs 3 mins   
 ```
-Updated at 2024-11-02 06:07:50 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
+Updated at 2024-11-03 06:08:32 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
