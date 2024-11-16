@@ -22,3 +22,15 @@
 - suggestions are okay, but worse than copilot
 - context includes previously opened files
 - technical details are pretty detailed
+
+# Cursor
+- proprietary model
+- VSCode only, forced to use their fork
+- suggestions were okay, similar to copilot
+- used less than 3h, because of all the other auto completion features and overall layout
+
+# Supermaven
+- proprietary model
+- better suggestions compared to copilot
+- gigantic context, but repos get stored on their servers
+- techincal details are kind of available, but it doesn't really matter with a context window like this
