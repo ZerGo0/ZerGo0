@@ -4,30 +4,30 @@
 Code Time:
 
 ```text
-Last 7 days:             22 hrs 8 mins
-Last 30 days:            106 hrs 30 mins
-Last 365 days:           491 hrs 45 mins
-All time:                492 hrs 5 mins
+Last 7 days:             30 hrs 2 mins
+Last 30 days:            101 hrs 32 mins
+Last 365 days:           497 hrs 8 mins
+All time:                497 hrs 28 mins
 ```
 Projects and Languages:
 ```text
-Last 7 days                            | Last 30 days                            | Last 365 days                            | All time                                
-                                       |                                         |                                          |                                         
-Projects:                              | Projects:                               | Projects:                                | Projects:                               
-fanslybot_site           21 hrs 2 mins | Work/Private Projects    70 hrs 46 mins | Work/Private Projects    298 hrs 5 mins  | Work/Private Projects    298 hrs 23 mins
-Work/Private Projects    44 mins       | fanslybot_site           31 hrs 48 mins | fanslybot_site           137 hrs 45 mins | fanslybot_site           137 hrs 47 mins
-wakatime-profile-stats   21 mins       | Ftv-extension            3 hrs 55 mins  | Ftv-extension            34 hrs 47 mins  | Ftv-extension            34 hrs 47 mins 
-                                       |                                         | wakatime-profile-stats   6 hrs 50 mins   | wakatime-profile-stats   6 hrs 50 mins  
-                                       |                                         | fontsourcedownloader     3 hrs 18 mins   | fontsourcedownloader     3 hrs 18 mins  
-                                       |                                         |                                          |                                         
-Languages:                             | Languages:                              | Languages:                               | Languages:                              
-Go                       9 hrs 53 mins | C#                       33 hrs 22 mins | C#                       186 hrs 50 mins | C#                       187 hrs 7 mins 
-TypeScript               5 hrs 26 mins | TypeScript               29 hrs 41 mins | Svelte                   78 hrs 11 mins  | Svelte                   78 hrs 12 mins 
-Svelte                   5 hrs 3 mins  | Go                       12 hrs 44 mins | TypeScript               64 hrs 31 mins  | TypeScript               64 hrs 32 mins 
-Other                    30 mins       | Svelte                   11 hrs 53 mins | Go                       48 hrs 1 min    | Go                       48 hrs 1 min   
-Markdown                 20 mins       | Other                    3 hrs 42 mins  | YAML                     17 hrs 6 mins   | YAML                     17 hrs 6 mins  
+Last 7 days                             | Last 30 days                            | Last 365 days                            | All time                                
+                                        |                                         |                                          |                                         
+Projects:                               | Projects:                               | Projects:                                | Projects:                               
+fanslybot_site           29 hrs 39 mins | Work/Private Projects    64 hrs 29 mins | Work/Private Projects    298 hrs 5 mins  | Work/Private Projects    298 hrs 23 mins
+wakatime-profile-stats   21 mins        | fanslybot_site           33 hrs 16 mins | fanslybot_site           142 hrs 47 mins | fanslybot_site           142 hrs 49 mins
+Work/Private Projects    1 mins         | Ftv-extension            3 hrs 24 mins  | Ftv-extension            34 hrs 47 mins  | Ftv-extension            34 hrs 47 mins 
+                                        | wakatime-profile-stats   21 mins        | wakatime-profile-stats   7 hrs 12 mins   | wakatime-profile-stats   7 hrs 12 mins  
+                                        |                                         | fontsourcedownloader     3 hrs 18 mins   | fontsourcedownloader     3 hrs 18 mins  
+                                        |                                         |                                          |                                         
+Languages:                              | Languages:                              | Languages:                               | Languages:                              
+Go                       12 hrs 22 mins | TypeScript               30 hrs 8 mins  | C#                       186 hrs 50 mins | C#                       187 hrs 7 mins 
+Svelte                   8 hrs 43 mins  | C#                       28 hrs 51 mins | Svelte                   79 hrs 20 mins  | Svelte                   79 hrs 20 mins 
+TypeScript               5 hrs 35 mins  | Go                       15 hrs 24 mins | TypeScript               65 hrs 29 mins  | TypeScript               65 hrs 30 mins 
+YAML                     1 hr 24 mins   | Svelte                   10 hrs 3 mins  | Go                       50 hrs 54 mins  | Go                       50 hrs 55 mins 
+Other                    31 mins        | Other                    3 hrs 31 mins  | YAML                     17 hrs 10 mins  | YAML                     17 hrs 10 mins 
 ```
-Updated at 2025-01-04 06:08:00 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
+Updated at 2025-01-05 06:08:10 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
 
 Bounties:
