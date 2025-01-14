@@ -4,30 +4,30 @@
 Code Time:
 
 ```text
-Last 7 days:             51 hrs 44 mins
-Last 30 days:            118 hrs 22 mins
-Last 365 days:           560 hrs 15 mins
-All time:                560 hrs 35 mins
+Last 7 days:             53 hrs 43 mins
+Last 30 days:            120 hrs 59 mins
+Last 365 days:           566 hrs 12 mins
+All time:                566 hrs 32 mins
 ```
 Projects and Languages:
 ```text
 Last 7 days                             | Last 30 days                            | Last 365 days                            | All time                                
                                         |                                         |                                          |                                         
 Projects:                               | Projects:                               | Projects:                                | Projects:                               
-Work/Private Projects    34 hrs 4 mins  | fanslybot_site           61 hrs 34 mins | Work/Private Projects    331 hrs 11 mins | Work/Private Projects    331 hrs 29 mins
-fanslybot_site           17 hrs 39 mins | Work/Private Projects    53 hrs 1 mins  | fanslybot_site           172 hrs 48 mins | fanslybot_site           172 hrs 50 mins
-                                        | Ftv-extension            3 hrs 24 mins  | Ftv-extension            34 hrs 47 mins  | Ftv-extension            34 hrs 47 mins 
+Work/Private Projects    32 hrs 47 mins | fanslybot_site           66 hrs 10 mins | Work/Private Projects    332 hrs 32 mins | Work/Private Projects    332 hrs 50 mins
+fanslybot_site           19 hrs 18 mins | Work/Private Projects    51 hrs 3 mins  | fanslybot_site           177 hrs 23 mins | fanslybot_site           177 hrs 26 mins
+Ftv-extension            1 hr 36 mins   | Ftv-extension            3 hrs 24 mins  | Ftv-extension            34 hrs 47 mins  | Ftv-extension            34 hrs 47 mins 
                                         | wakatime-profile-stats   21 mins        | wakatime-profile-stats   7 hrs 12 mins   | wakatime-profile-stats   7 hrs 12 mins  
                                         |                                         | fontsourcedownloader     3 hrs 18 mins   | fontsourcedownloader     3 hrs 18 mins  
                                         |                                         |                                          |                                         
 Languages:                              | Languages:                              | Languages:                               | Languages:                              
-C#                       19 hrs 44 mins | TypeScript               30 hrs 51 mins | C#                       206 hrs 33 mins | C#                       206 hrs 49 mins
-TypeScript               9 hrs 28 mins  | Go                       23 hrs 52 mins | Svelte                   92 hrs 13 mins  | Svelte                   92 hrs 14 mins 
-Go                       7 hrs 15 mins  | C#                       22 hrs 53 mins | TypeScript               75 hrs 20 mins  | TypeScript               75 hrs 21 mins 
-Svelte                   4 hrs 49 mins  | Svelte                   21 hrs 48 mins | Go                       59 hrs 25 mins  | Go                       59 hrs 25 mins 
-SQL                      2 hrs 59 mins  | Other                    4 hrs 59 mins  | YAML                     19 hrs 10 mins  | YAML                     19 hrs 10 mins 
+C#                       18 hrs 46 mins | TypeScript               33 hrs 27 mins | C#                       206 hrs 33 mins | C#                       206 hrs 49 mins
+TypeScript               10 hrs 33 mins | Go                       26 hrs 4 mins  | Svelte                   92 hrs 45 mins  | Svelte                   92 hrs 45 mins 
+Go                       7 hrs 59 mins  | Svelte                   22 hrs 19 mins | TypeScript               77 hrs 55 mins  | TypeScript               77 hrs 56 mins 
+Svelte                   5 hrs 39 mins  | C#                       19 hrs 42 mins | Go                       61 hrs 37 mins  | Go                       61 hrs 37 mins 
+Other                    3 hrs 14 mins  | Other                    5 hrs 13 mins  | YAML                     19 hrs 21 mins  | YAML                     19 hrs 21 mins 
 ```
-Updated at 2025-01-13 06:09:16 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
+Updated at 2025-01-14 06:08:23 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
 
 Bounties:
