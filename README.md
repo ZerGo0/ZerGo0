@@ -29,6 +29,3 @@ SQL                      29 mins        | Svelte                   4 hrs 32 mins
 ```
 Updated at 2025-02-23 06:07:47 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
-
-Bounties:
-- [$200 futo-org/android-keyboard Support Multi-Lingual Typing Without Layout Change](https://github.com/futo-org/android-keyboard/issues/683#issuecomment-2559393872)
