@@ -4,28 +4,28 @@
 Code Time:
 
 ```text
-Last 7 days:             36 hrs 56 mins
-Last 30 days:            180 hrs 49 mins
-Last 365 days:           976 hrs 55 mins
-All time:                976 hrs 55 mins
+Last 7 days:             38 hrs 16 mins
+Last 30 days:            179 hrs 20 mins
+Last 365 days:           984 hrs 51 mins
+All time:                984 hrs 51 mins
 ```
 Projects and Languages:
 ```text
 Last 7 days                             | Last 30 days                             | Last 365 days                            | All time                                
                                         |                                          |                                          |                                         
 Projects:                               | Projects:                                | Projects:                                | Projects:                               
-app                      20 hrs 19 mins | Work/Private Projects    118 hrs 38 mins | Work/Private Projects    654 hrs 47 mins | Work/Private Projects    652 hrs 24 mins
-Work/Private Projects    15 hrs 52 mins | app                      43 hrs 39 mins  | fanslybot_site           202 hrs 52 mins | fanslybot_site           202 hrs 54 mins
-rye-sdk                  39 mins        | rye-sdk                  9 hrs 45 mins   | app                      48 hrs 20 mins  | app                      43 hrs 34 mins 
+app                      23 hrs 17 mins | Work/Private Projects    112 hrs 22 mins | Work/Private Projects    656 hrs 59 mins | Work/Private Projects    655 hrs 14 mins
+Work/Private Projects    13 hrs 44 mins | app                      48 hrs 26 mins  | fanslybot_site           202 hrs 52 mins | fanslybot_site           202 hrs 54 mins
+rye-sdk                  1 hr 8 mins    | rye-sdk                  9 hrs 45 mins   | app                      52 hrs 56 mins  | app                      48 hrs 22 mins 
 tools                    5 mins         | fanslybot_site           7 hrs 29 mins   | Ftv-extension            38 hrs 15 mins  | Ftv-extension            38 hrs 15 mins 
-                                        | tools                    1 hr 16 mins    | rye-sdk                  9 hrs 43 mins   | rye-sdk                  9 hrs 45 mins  
+                                        | tools                    1 hr 16 mins    | rye-sdk                  10 hrs 51 mins  | rye-sdk                  9 hrs 45 mins  
                                         |                                          |                                          |                                         
 Languages:                              | Languages:                               | Languages:                               | Languages:                              
-TypeScript               10 hrs 51 mins | TypeScript               98 hrs 39 mins  | TypeScript               319 hrs 52 mins | TypeScript               319 hrs 10 mins
-Go                       9 hrs 10 mins  | Svelte                   19 hrs 17 mins  | C#                       228 hrs 4 mins  | C#                       228 hrs 20 mins
-Svelte                   8 hrs 4 mins   | Go                       15 hrs 38 mins  | Svelte                   120 hrs 12 mins | Svelte                   117 hrs 38 mins
-JSON                     2 hrs 17 mins  | Markdown                 14 hrs 46 mins  | Go                       84 hrs 30 mins  | Go                       83 hrs 1 min   
-Other                    2 hrs 7 mins   | Other                    12 hrs 25 mins  | Other                    43 hrs 19 mins  | Other                    43 hrs 7 mins  
+Svelte                   11 hrs 16 mins | TypeScript               92 hrs 53 mins  | TypeScript               322 hrs 9 mins  | TypeScript               320 hrs 2 mins 
+TypeScript               8 hrs 47 mins  | Svelte                   21 hrs 53 mins  | C#                       228 hrs 4 mins  | C#                       228 hrs 20 mins
+Go                       8 hrs 30 mins  | Go                       17 hrs 9 mins   | Svelte                   123 hrs 25 mins | Svelte                   120 hrs 13 mins
+Other                    3 hrs 9 mins   | Markdown                 14 hrs 25 mins  | Go                       85 hrs 21 mins  | Go                       84 hrs 32 mins 
+JSON                     2 hrs 21 mins  | Other                    12 hrs 13 mins  | Other                    44 hrs 33 mins  | Other                    43 hrs 19 mins 
 ```
-Updated at 2025-04-03 06:09:23 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
+Updated at 2025-04-04 06:09:19 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
