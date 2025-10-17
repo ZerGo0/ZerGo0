@@ -4,28 +4,28 @@
 Code Time:
 
 ```text
-Last 7 days:             27 hrs 30 mins
-Last 30 days:            109 hrs 20 mins
-Last 365 days:           1,990 hrs 8 mins
-All time:                2,087 hrs 13 mins
+Last 7 days:             25 hrs 8 mins
+Last 30 days:            111 hrs 31 mins
+Last 365 days:           1,983 hrs 1 min
+All time:                2,093 hrs 33 mins
 ```
 Projects and Languages:
 ```text
-Last 7 days                            | Last 30 days                            | Last 365 days                            | All time                                
-                                       |                                         |                                          |                                         
-Projects:                              | Projects:                               | Projects:                                | Projects:                               
-projectf                 26 hrs 7 mins | projectf                 83 hrs 46 mins | Work/Private Projects    915 hrs 22 mins | Work/Private Projects    960 hrs 1 mins 
-fanslybot_site           1 hr 21 mins  | Work/Private Projects    8 hrs 37 mins  | projectf                 375 hrs 58 mins | projectf                 369 hrs 22 mins
-Work/Private Projects    1 mins        | claude-code-github-bot   8 hrs 15 mins  | app                      334 hrs 31 mins | app                      333 hrs 54 mins
-                                       | fanslybot_site           7 hrs 1 min    | fanslybot_site           245 hrs 59 mins | fanslybot_site           286 hrs 29 mins
-                                       | claude-proxy             1 hr 26 mins   | Ftv-extension            40 hrs 35 mins  | Ftv-extension            47 hrs 26 mins 
-                                       |                                         |                                          |                                         
-Languages:                             | Languages:                              | Languages:                               | Languages:                              
-TypeScript               8 hrs 23 mins | TypeScript               42 hrs 40 mins | TypeScript               759 hrs 13 mins | TypeScript               765 hrs 28 mins
-Astro                    5 hrs 58 mins | Svelte                   27 hrs 7 mins  | Svelte                   376 hrs 25 mins | Svelte                   395 hrs 48 mins
-Svelte                   5 hrs 46 mins | Go                       9 hrs 36 mins  | C#                       202 hrs 54 mins | C#                       231 hrs 51 mins
-Go                       2 hrs 29 mins | Astro                    6 hrs 34 mins  | Go                       154 hrs 42 mins | Go                       171 hrs 17 mins
-CSS                      1 hr 35 mins  | JSON                     5 hrs 51 mins  | Other                    113 hrs 39 mins | Other                    117 hrs 19 mins
+Last 7 days                             | Last 30 days                            | Last 365 days                            | All time                                
+                                        |                                         |                                          |                                         
+Projects:                               | Projects:                               | Projects:                                | Projects:                               
+projectf                 23 hrs 47 mins | projectf                 86 hrs 43 mins | Work/Private Projects    908 hrs 40 mins | Work/Private Projects    960 hrs 1 mins 
+fanslybot_site           1 hr 21 mins   | claude-code-github-bot   8 hrs 15 mins  | projectf                 379 hrs 34 mins | projectf                 375 hrs 41 mins
+Work/Private Projects    0 mins         | Work/Private Projects    7 hrs 50 mins  | app                      334 hrs 31 mins | app                      333 hrs 54 mins
+                                        | fanslybot_site           7 hrs 1 min    | fanslybot_site           245 hrs 55 mins | fanslybot_site           286 hrs 29 mins
+                                        | claude-proxy             1 hr 26 mins   | Ftv-extension            37 hrs 4 mins   | Ftv-extension            47 hrs 26 mins 
+                                        |                                         |                                          |                                         
+Languages:                              | Languages:                              | Languages:                               | Languages:                              
+TypeScript               8 hrs 42 mins  | TypeScript               42 hrs 53 mins | TypeScript               759 hrs 31 mins | TypeScript               766 hrs 36 mins
+Svelte                   8 hrs 10 mins  | Svelte                   27 hrs 5 mins  | Svelte                   375 hrs 24 mins | Svelte                   397 hrs 57 mins
+Go                       2 hrs 29 mins  | Go                       11 hrs 35 mins | C#                       198 hrs 5 mins  | C#                       231 hrs 51 mins
+Astro                    1 hr 34 mins   | Astro                    6 hrs 37 mins  | Go                       154 hrs 38 mins | Go                       173 hrs 23 mins
+CSS                      1 hr 2 mins    | Markdown                 5 hrs 20 mins  | Other                    113 hrs 9 mins  | Other                    117 hrs 51 mins
 ```
-Updated at 2025-10-16 06:11:07 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
+Updated at 2025-10-17 06:10:20 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
