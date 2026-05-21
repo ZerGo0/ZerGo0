@@ -4,28 +4,28 @@
 Code Time:
 
 ```text
-Last 7 days:             53 hrs 25 mins
-Last 30 days:            170 hrs 54 mins
-Last 365 days:           1,884 hrs 39 mins
-All time:                3,137 hrs 10 mins
+Last 7 days:             47 hrs 1 min
+Last 30 days:            182 hrs 6 mins
+Last 365 days:           1,882 hrs 20 mins
+All time:                3,151 hrs 2 mins
 ```
 Projects and Languages:
 ```text
 Last 7 days                             | Last 30 days                             | Last 365 days                              | All time                                  
                                         |                                          |                                            |                                           
 Projects:                               | Projects:                                | Projects:                                  | Projects:                                 
-projectf                 42 hrs 4 mins  | projectf                 115 hrs 58 mins | projectf                 1,125 hrs 55 mins | projectf                 1,125 hrs 55 mins
-Work/Private Projects    11 hrs 2 mins  | Work/Private Projects    38 hrs 7 mins   | Work/Private Projects    336 hrs 55 mins   | Work/Private Projects    1109 hrs 19 mins 
-ZerGo0                   15 mins        | fanslybot_site           8 hrs 48 mins   | app                      133 hrs 56 mins   | app                      334 hrs 31 mins  
-agent-github-bot         3 mins         | glitchtip-reprod         3 hrs 16 mins   | fanslybot_site           123 hrs 40 mins   | fanslybot_site           328 hrs 27 mins  
-                                        | agent-github-bot         3 hrs           | projectws                43 hrs 3 mins     | Ftv-extension            51 hrs 34 mins   
+projectf                 38 hrs 55 mins | projectf                 127 hrs 26 mins | projectf                 1,137 hrs 23 mins | projectf                 1,137 hrs 23 mins
+Work/Private Projects    7 hrs 24 mins  | Work/Private Projects    37 hrs 57 mins  | Work/Private Projects    336 hrs 1 mins    | Work/Private Projects    1111 hrs 5 mins  
+fanslybot_site           28 mins        | fanslybot_site           9 hrs 16 mins   | fanslybot_site           124 hrs 8 mins    | app                      334 hrs 31 mins  
+wxt                      9 mins         | glitchtip-reprod         3 hrs 16 mins   | app                      122 hrs 23 mins   | fanslybot_site           328 hrs 55 mins  
+agent-github-bot         3 mins         | agent-github-bot         2 hrs 16 mins   | projectws                43 hrs 3 mins     | Ftv-extension            51 hrs 34 mins   
                                         |                                          |                                            |                                           
 Languages:                              | Languages:                               | Languages:                                 | Languages:                                
-Other                    14 hrs 26 mins | Other                    36 hrs 39 mins  | TypeScript               670 hrs 43 mins   | TypeScript               1,106 hrs 36 mins
-TypeScript               11 hrs 13 mins | TypeScript               36 hrs 24 mins  | Svelte                   386 hrs 7 mins    | Svelte                   578 hrs 41 mins  
-Svelte                   8 hrs 36 mins  | Svelte                   22 hrs 3 mins   | Other                    175 hrs 13 mins   | Go                       273 hrs 55 mins  
-Go                       5 hrs 18 mins  | JavaScript               16 hrs 57 mins  | Go                       171 hrs 28 mins   | Other                    239 hrs 23 mins  
-Markdown                 3 hrs 42 mins  | Markdown                 15 hrs 45 mins  | Markdown                 149 hrs 41 mins   | C#                       232 hrs 55 mins  
+TypeScript               13 hrs 31 mins | TypeScript               40 hrs 22 mins  | TypeScript               670 hrs 32 mins   | TypeScript               1,110 hrs 35 mins
+Svelte                   10 hrs 12 mins | Other                    36 hrs 23 mins  | Svelte                   382 hrs 28 mins   | Svelte                   579 hrs 54 mins  
+Markdown                 6 hrs 12 mins  | Svelte                   23 hrs 16 mins  | Other                    174 hrs 26 mins   | Go                       275 hrs 21 mins  
+Go                       4 hrs 42 mins  | JavaScript               18 hrs 30 mins  | Go                       172 hrs 7 mins    | Other                    239 hrs 30 mins  
+JavaScript               3 hrs 37 mins  | Markdown                 17 hrs 50 mins  | Markdown                 149 hrs 26 mins   | C#                       232 hrs 55 mins  
 ```
-Updated at 2026-05-19 07:24:36 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
+Updated at 2026-05-21 07:28:21 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
